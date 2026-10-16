@@ -47,7 +47,8 @@ $estado = $_GET['estado'] ?? '';
 
     <main class="contenedor">
         <section class="tarjeta formulario">
-            <h2>Registrar producto</h2>
+            <h2>Registrar productoo
+            </h2>
 
             <p class="descripcion">
                 Escriba el nombre del producto y su cantidad.
