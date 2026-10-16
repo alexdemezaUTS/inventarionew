@@ -47,7 +47,7 @@ $estado = $_GET['estado'] ?? '';
 
     <main class="contenedor">
         <section class="tarjeta formulario">
-            <h2>Registrar producto
+            <h2>Registrar producto0
             </h2>
 
             <p class="descripcion">
