@@ -5,7 +5,7 @@
  */
 
 /**
- * Valida que el nombre tenga al menos 3 caracteres.
+ * Valida que el nombre teng xd al menos 3 caracteres.
  */
 function validarNombre(string $nombre): bool {
     return mb_strlen(trim($nombre), 'UTF-8') >= 3;
